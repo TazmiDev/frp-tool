@@ -10,6 +10,7 @@ A Python command line tool to simplify FRP client operations, supporting quick p
 
 ### Quick Installation
 ```powershell
+git clone https://github.com/TazmiDev/frp-tool.git
 ./install.ps1
 ```
 
