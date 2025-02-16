@@ -1,0 +1,10 @@
+serverAddr = "xxx.xxx.xxx.xxx"
+serverPort = 7000
+auth.token = ""
+
+[[proxies]]
+name = "test"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 8000
+remotePort = 8888
